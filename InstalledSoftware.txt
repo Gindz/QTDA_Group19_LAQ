@@ -1,0 +1,176 @@
+Installed Applications: 
+
+Display Name  : Microsoft Office Professional Plus 2013
+Version       : 15.0.4569.1506
+InstallDate   : 
+Estimated Size: 
+Uninstall     :"C:\Program Files\Common Files\Microsoft Shared\OFFICE15\Office Setup Controller\setup.exe" /uninstall PROPLUSR /dll OSETUP.DLL
+
+Display Name  : RunBooster
+Version       : 1.0.3
+InstallDate   : 20200316
+Estimated Size: 1.825 megabytes
+Uninstall     :C:\Program Files\RunBooster\Uninstall.exe
+
+Display Name  : WinRAR 5.90 beta 3 (64-bit)
+Version       : 5.90.3
+InstallDate   : 
+Estimated Size: 
+Uninstall     :C:\Program Files\WinRAR\uninstall.exe
+
+Display Name  : VMware Tools
+Version       : 11.0.0.14549434
+InstallDate   : 20200316
+Estimated Size: 90.819 megabytes
+Uninstall     :MsiExec.exe /I{7B09CBED-1199-4BA3-9948-A28DB7C9C396}
+
+Display Name  : Microsoft Visual C++ 2019 X64 Additional Runtime - 14.25.28508
+Version       : 14.25.28508
+InstallDate   : 20200607
+Estimated Size: 11.484 megabytes
+Uninstall     :MsiExec.exe /I{7D0B74C2-C3F8-4AF1-940F-CD79AB4B2DCE}
+
+Display Name  : Microsoft Access MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 11.829 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0015-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Excel MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 12.329 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0016-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft PowerPoint MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 47.927 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0018-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Publisher MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 16.295 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0019-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Outlook MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 14.098 megabytes
+Uninstall     :MsiExec.exe /X{90150000-001A-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Word MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 19.794 megabytes
+Uninstall     :MsiExec.exe /X{90150000-001B-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Proofing Tools 2013 - English
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 21.819 megabytes
+Uninstall     :MsiExec.exe /X{90150000-001F-0409-1000-0000000FF1CE}
+
+Display Name  : Outils de vérification linguistique 2013 de Microsoft Office - Français
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 29.588 megabytes
+Uninstall     :MsiExec.exe /X{90150000-001F-040C-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Proofing Tools 2013 - Español
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 23.541 megabytes
+Uninstall     :MsiExec.exe /X{90150000-001F-0C0A-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Proofing (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1.08 megabytes
+Uninstall     :MsiExec.exe /X{90150000-002C-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft InfoPath MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 10.354 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0044-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Shared MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 45.613 megabytes
+Uninstall     :MsiExec.exe /X{90150000-006E-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft DCF MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1.533 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0090-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft OneNote MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 17.47 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00A1-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Groove MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 8.619 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00BA-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office 32-bit Components 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 137.255 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00C1-0000-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Shared 32-bit MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 17.196 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00C1-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office OSM MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1.252 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00E1-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office OSM UX MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 8.088 megabytes
+Uninstall     :MsiExec.exe /X{90150000-00E2-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Shared Setup Metadata MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1.08 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0115-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Access Setup Metadata MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1.08 megabytes
+Uninstall     :MsiExec.exe /X{90150000-0117-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Lync MUI (English) 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 5.058 megabytes
+Uninstall     :MsiExec.exe /X{90150000-012B-0409-1000-0000000FF1CE}
+
+Display Name  : Microsoft Office Professional Plus 2013
+Version       : 15.0.4569.1506
+InstallDate   : 20200316
+Estimated Size: 1761.15 megabytes
+Uninstall     :MsiExec.exe /X{91150000-0011-0000-1000-0000000FF1CE}
+
+Display Name  : Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.25.28508
+Version       : 14.25.28508
+InstallDate   : 20200607
+Estimated Size: 2.086 megabytes
+Uninstall     :MsiExec.exe /I{EEA66967-97E2-4561-A999-5C22E3CDE428}
+
